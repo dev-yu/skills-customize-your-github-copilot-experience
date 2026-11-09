@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-routes",
+      "title": "Testing FastAPI Routes with unittest",
+      "description": "Write automated tests for FastAPI routes using unittest and TestClient, covering responses, validation, and error handling",
+      "path": "assignments/testing-fastapi-routes",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Test Starter Code",
+          "file": "test_main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
